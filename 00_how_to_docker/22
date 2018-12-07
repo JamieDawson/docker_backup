@@ -1,0 +1,5 @@
+docker­machine ssh Char
+docker swarm join­token worker
+# copy command output
+docker­machie ssh Aiur
+# paste command and execute

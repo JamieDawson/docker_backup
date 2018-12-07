@@ -1,0 +1,1 @@
+docker service create -d --env OC_USERNAME=jadawson --env OC_PASSWD=passjadawson --network overmind --replicas=2 --name engineering-bay 24school/engineering-bay
